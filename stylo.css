@@ -4,3 +4,9 @@ body
     color: brown;
     font-family: 'Times New Roman', Times, serif;
 }
+#caabecera{
+    background-color: rgb(43, 0, 129);
+    text-align: center;
+    color: aliceblue;
+
+}
